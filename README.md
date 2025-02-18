@@ -1,0 +1,30 @@
+<h1 align="center">Saudacao App with Kotlin</h1>
+
+<p align="center">
+ <a href="#status">Status</a> • 
+ <a href="#objective">Objective</a> •
+ <a href="#installation">Installation</a> • 
+ <a href="#technology">Technology</a> • 
+ <a href="#author">Author</a> •
+ <a href="#licence">License</a>
+</p>
+
+
+<h2 id=objective>:scroll: Objective</h2>
+Loren <br>
+Loren<br>
+Loren
+
+<h2 id=technology>:toolbox: Technology</h2>
+
+The following tools were used in the construction of the project:
+
+- Android Studio: <a href="https://developer.android.com/studio">Android Studio</a>
+- Paleta de cores: <a href="https://color.adobe.com/pt/explore">Adobe Color</a>
+
+<h2 id=author>:grin: Author</h2>
+Developed by <a href="https://www.linkedin.com/in/sofia-josaf%C3%A1-062a18310/" target="_blank">Sofia Josafá</a>
+
+
+<h2 id=licence>:lock: Licence</h2>
+<a href="https://github.com/sosojosafars/csharp-unit-test-programada-mente/blob/main/LICENSE" target="_blank">MIT</a>
