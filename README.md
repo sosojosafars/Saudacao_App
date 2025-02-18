@@ -1,9 +1,7 @@
 <h1 align="center">Saudacao App with Kotlin</h1>
 
 <p align="center">
- <a href="#status">Status</a> • 
  <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
  <a href="#technology">Technology</a> • 
  <a href="#author">Author</a> •
  <a href="#licence">License</a>
