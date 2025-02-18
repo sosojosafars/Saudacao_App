@@ -1,17 +1,10 @@
 <h1 align="center">Saudacao App with Kotlin</h1>
 
 <p align="center">
- <a href="#objective">Objective</a> •
  <a href="#technology">Technology</a> • 
  <a href="#author">Author</a> •
  <a href="#licence">License</a>
 </p>
-
-
-<h2 id=objective>Objective</h2>
-Loren <br>
-Loren<br>
-Loren
 
 <h2 id=technology>🔎 Technology</h2>
 - IDE: <a href="https://developer.android.com/studio">Android Studio</a><br>
